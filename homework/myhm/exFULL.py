@@ -4,6 +4,7 @@ x = y = 0
 
 n = input('Введіть літеру від а до к:\n')
 
+
 if n == 'а':
     try:
         for x in range(area):
